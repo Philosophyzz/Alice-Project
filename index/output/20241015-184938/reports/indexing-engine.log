@@ -1231,3 +1231,17 @@
 19:13:03,279 graphrag.llm.base.rate_limiting_llm INFO perf - llm.chat "Process" with 0 retries took 77.23500000004424. input_tokens=2234, output_tokens=604
 19:13:12,236 httpx INFO HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
 19:13:12,237 graphrag.llm.base.rate_limiting_llm INFO perf - llm.chat "Process" with 0 retries took 85.48399999999674. input_tokens=2234, output_tokens=535
+19:13:20,495 httpx INFO HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
+19:13:20,495 graphrag.llm.base.rate_limiting_llm INFO perf - llm.chat "Process" with 0 retries took 93.18800000002375. input_tokens=2234, output_tokens=542
+19:13:25,928 httpx INFO HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
+19:13:25,929 graphrag.llm.base.rate_limiting_llm INFO perf - llm.chat "Process" with 0 retries took 97.10899999999674. input_tokens=2233, output_tokens=529
+19:13:27,394 httpx INFO HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
+19:13:27,396 graphrag.llm.base.rate_limiting_llm INFO perf - llm.chat "Process" with 0 retries took 107.79700000002049. input_tokens=2234, output_tokens=1086
+19:13:30,629 httpx INFO HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
+19:13:30,630 graphrag.llm.base.rate_limiting_llm INFO perf - llm.chat "Process" with 0 retries took 97.46899999998277. input_tokens=2235, output_tokens=476
+19:13:34,939 httpx INFO HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
+19:13:34,941 graphrag.llm.base.rate_limiting_llm INFO perf - llm.chat "Process" with 0 retries took 100.81199999997625. input_tokens=2235, output_tokens=564
+19:13:36,812 httpx INFO HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
+19:13:36,814 graphrag.llm.base.rate_limiting_llm INFO perf - llm.chat "Process" with 0 retries took 97.89100000000326. input_tokens=2235, output_tokens=590
+19:13:40,186 httpx INFO HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
+19:13:40,186 graphrag.llm.base.rate_limiting_llm INFO perf - llm.chat "Process" with 0 retries took 98.375. input_tokens=2235, output_tokens=560
